@@ -1,5 +1,5 @@
 {
-  "name": "marutechpro/datetimeable-propel-behavior",
+  "name": "maritechpro/datetimeable-propel-behavior",
   "type": "propel-behavior",
   "description": "The extension of propel behavior timestampable to allow DATETIME type of columns",
   "license": "MIT",
