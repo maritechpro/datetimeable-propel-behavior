@@ -1,0 +1,19 @@
+{
+  "name": "marutechpro/datetimeable-propel-behavior",
+  "type": "propel-behavior",
+  "description": "The extension of propel behavior timestampable to allow DATETIME type of columns",
+  "license": "MIT",
+  "version": "1.0.0",
+  "extra": {
+    "name": "timestampable",
+    "class": "\\Propel\\Generator\\Behavior\\Datetimeable\\DatetimeableBehavior"
+  },
+  "require": {
+    "propel/propel": "2.0.0-beta3"
+  },
+  "autoload": {
+    "psr-4": {
+      "Propel\\Generator\\Behavior\\Datetimeable\\": "src"
+    }
+  }
+}
